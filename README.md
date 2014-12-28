@@ -1,2 +1,3 @@
 Best-Transportation-Choice
 ==========================
+Subway is an indispensable mode of transport in the New York City, and delay times are an unavoidable defect about it. There are many APIs in the market providing commuters with the optimum route, none of them take delay into consideration, which leads to inaccuracy. Thus our team aims to modify the inaccuracy by cooperating with MTA. After implementing Google Maps API to list out routes, we use big data approaches to deal with MTA dataset. Based on the outcome, we will show a visual recommendation of the most efficient route and rank all the metro stations along the path.
